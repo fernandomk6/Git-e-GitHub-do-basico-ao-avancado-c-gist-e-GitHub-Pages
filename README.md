@@ -10,7 +10,7 @@ exemplo **teste**
 ###### para italico use * palavra *
 exemplo *test*
 
-###### listas use * item ou 1.item
+###### listas use * item ou 1. item
 exemplo não odenado
   * produtos
   * fornecedores
