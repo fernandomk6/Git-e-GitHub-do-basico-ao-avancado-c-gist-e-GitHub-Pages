@@ -16,6 +16,6 @@ exemplo não odenado
   * fornecedores
   * clienes
 exemplo ordenado
-  1.teste
-  2.outro teste
-  3.cansei de fazer teste
+  1. teste
+  2. outro teste
+  3. cansei de fazer teste
