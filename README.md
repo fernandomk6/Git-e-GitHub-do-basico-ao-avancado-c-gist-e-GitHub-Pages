@@ -24,4 +24,4 @@ exemplo ordenado
 
 ###### agora adicionando uma imagem
 Esse cara é mais estranho do que parece...
-![git](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsmhatre59.medium.com%2Fthe-untold-story-of-github-132840f72f56&psig=AOvVaw2QBIUaeMxsC7YNRwaBZlgs&ust=1647560206497000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJi1-5rmy_YCFQAAAAAdAAAAABAD)
+![git](https://miro.medium.com/max/650/1*ekOYsVAtOKFeeJyhv5NVhA.jpeg)
