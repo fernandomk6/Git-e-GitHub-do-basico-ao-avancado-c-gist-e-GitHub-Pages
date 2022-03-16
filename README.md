@@ -9,3 +9,13 @@ exemplo **teste**
 
 ###### para italico use * palavra *
 exemplo *test*
+
+###### listas use * item ou 1.item
+exemplo não odenado
+  * produtos
+  * fornecedores
+  * clienes
+exemplo ordenado
+  1.teste
+  2.outro teste
+  3.cansei de fazer teste
