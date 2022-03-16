@@ -39,6 +39,6 @@ if(joao.rico && (data < 01.01.2026)){
 ```
 
 ###### tarefas
-- [ x ] Curso Git
-- [  ] Curso react
+-[x] Curso Git
+-[] Curso react
 
