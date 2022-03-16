@@ -32,7 +32,7 @@ Esse cara é mais estranho do que parece...
 [Bixozo!](https://www.bixozo.com.br)
 
 ###### inserindo codigo valido apenas para o gitHub
-´´´ javascript
+´´´javascript
 if(joao.rico && (data < 01.01.2026)){
  derrota();
 }
