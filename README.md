@@ -30,3 +30,10 @@ Esse cara é mais estranho do que parece...
 [Gato polvo de novo](https://miro.medium.com/max/650/1*ekOYsVAtOKFeeJyhv5NVhA.jpeg)
 
 [Bixozo!](https://www.bixozo.com.br)
+
+###### inserindo codigo valido apenas para o gitHub
+´´´
+if(joao.rico && (data < 01.01.2026)){
+ derrota();
+}
+´´´
