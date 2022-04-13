@@ -1,4 +1,4 @@
-# Git-e-GitHub-do-basico-ao-avancado-c-gist-e-GitHub-Pages
+# Git e GitHub do basico ao avancado com gist e GitHubPages
 Curso git basico ao avançado. Plataforma Udemy. Instrutor Matheus Battisti.
 
 ## Explorando o github
